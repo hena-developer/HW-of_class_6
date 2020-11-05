@@ -1,0 +1,119 @@
+*{
+	margin:0;
+	padding:0;
+}
+/*header section*/
+header{
+
+}
+.header-content{
+	width:100%;
+	height:130px;
+	background-color: rgb(16, 79, 85);
+	display: inline-block;
+}
+.logo{
+	width:30%;
+	height:130px;
+	margin:20px;
+    float: left;
+}
+.logo img{
+	width:59%;
+}
+}
+.header-menu{
+	width:50%;
+	height:130px;
+    float:right;
+}
+.hrader-menu ul{
+	list-style:none;
+	margin: 35px 0;
+} 
+.header-menu ul li{
+	float:left;
+	color:white;
+	margin:20px;
+	font-size: 24px;
+}
+/*banner section*/
+.banner{
+	width: 100%;
+	height:800px;
+	background-image: url(images/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.container{
+	width: 80%;
+	margin:0 auto;
+}
+.banner-text{
+	width: 40%;
+    display: inline-block;
+    margin-top:16%;
+    height:400px;
+    background-color:rgba(0, 0, 0, .7);
+    padding: 59px;
+}
+.banner-text h1{
+	color:white;
+	font-size:50px;
+	padding: 50px;
+}
+.banner-text p{
+	color:white;
+	margin-top:9%;
+}
+.btn{
+	background-color: rgb(50, 116, 109);
+	border:none;
+	padding:10px 30px;
+	margin-top:5%;
+	border-radius: 8px;
+}
+.btn a{
+	text-decoration: none;
+	color:white;
+	font-size:16px;
+}
+/*about us section*/
+.about-us{
+    width: 100%
+    height:400px;
+    display: inline-block;
+    padding:50px 0;
+}
+.heading{
+	text-align: center;
+	font-size:30px;
+}
+.about-text{
+    width: 50%
+    height:200px;
+    float:left;
+    margin-top:10%;
+}
+.about-text h1{
+
+}
+.about-text p{
+
+}
+.about-text img{
+    width:500px;
+    height: 200px;
+}
+.center{
+	text-align: center;
+}
+.profolio{
+
+}
+.content p{
+     background-color: blue
+     margin:10p0%;
+     
+}
